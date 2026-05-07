@@ -1,0 +1,16 @@
+# Ambiente base — Sprint 1 (EDA)
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
+
+# Sprint 2+ (pré-processamento e modelagem) — descomentar quando necessário
+# scikit-learn>=1.4
+# imbalanced-learn>=0.12
+# xgboost>=2.0
+# lightgbm>=4.0
+# shap>=0.45
+# optuna>=3.5

@@ -1,0 +1,42 @@
+# Dados — nunca versionar
+data/raw/
+data/processed/
+
+# Ambientes Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Outputs e artefatos temporários
+*.log
+*.pkl
+*.joblib
+*.h5
+*.parquet
+*.feather
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Distribuição / build
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Variáveis de ambiente
+.env
+.env.*
