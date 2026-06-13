@@ -7,8 +7,9 @@ jupyter>=1.0
 notebook>=7.0
 ipykernel>=6.0
 
-# Sprint 2+ (pré-processamento e modelagem) — descomentar quando necessário
-# scikit-learn>=1.4
+# Sprint 2+ (pré-processamento e modelagem)
+scikit-learn>=1.4
+scipy>=1.11
 # imbalanced-learn>=0.12
 # xgboost>=2.0
 # lightgbm>=4.0
