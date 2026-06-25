@@ -13,5 +13,5 @@ scipy>=1.11
 # imbalanced-learn>=0.12
 # xgboost>=2.0
 # lightgbm>=4.0
-# shap>=0.45
+shap>=0.45
 # optuna>=3.5
